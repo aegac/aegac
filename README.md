@@ -1,4 +1,3 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?aegac)
-
+![](https://komarev.com/ghpvc/?username=aegac)

@@ -1,5 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aegac)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-mu-indol.vercel.app?user=aegac&theme=prussian" alt="GitHub Streak" /></a>
 
 <h3 align="center">Skills / Tools</h3>
 

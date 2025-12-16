@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aegac)](https://git.io/streak-stats)
+
 
 <h3 align="center">Skills / Tools</h3>
 

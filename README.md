@@ -15,7 +15,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
 </div>
-
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-mu-indol.vercel.app?user=aegac&theme=prussian" alt="GitHub Streak" /></a>
-</div>
